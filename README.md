@@ -1,3 +1,3 @@
-## 👋 Hi
+## 👋 Hi | こんにちは
 
-## 🎃 Soon here something will be.
+## 🎃 Soon here something will be. | すぐにここに何かが来るでしょう
