@@ -4,10 +4,10 @@
 
 <br />
 
-<a href="https://github.com/Good4Fox?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Good4Fox?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=151d2c&labelColor=ff7925" /></a>
-<a href="https://www.npmjs.com/package/@hunesfox-hivelabs/cli"><img alt="HunesFox CLI on npm" src="https://img.shields.io/npm/v/@hunesfox-hivelabs/cli?style=for-the-badge&logo=npm&logoColor=white&label=HUNESFOX%20CLI&color=151d2c&labelColor=ff7925" /></a>
-<a href="https://hunesfox.com/cli"><img alt="Website" src="https://img.shields.io/badge/LAUNCH-HUNESFOX.COM-151d2c?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=ff7925" /></a>
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=Good4Fox&style=for-the-badge&color=ff7925&label=SIGNAL%20HITS" />
+<a href="https://github.com/Good4Fox?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Good4Fox?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=151b23&labelColor=ff7a18" /></a>
+<a href="https://www.npmjs.com/package/@hunesfox-hivelabs/cli"><img alt="HunesFox CLI on npm" src="https://img.shields.io/npm/v/@hunesfox-hivelabs/cli?style=for-the-badge&logo=npm&logoColor=white&label=HUNESFOX%20CLI&color=151b23&labelColor=ff7a18" /></a>
+<a href="https://hunesfox.com/cli"><img alt="Website" src="https://img.shields.io/badge/LAUNCH-HUNESFOX.COM-151b23?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=ff7a18" /></a>
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=Good4Fox&style=for-the-badge&color=ff7a18&label=SIGNAL%20HITS" />
 
 <sub>ENGINEERING × AESTHETICS × ARTIFICIAL INTELLIGENCE</sub>
 
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&duration=2700&pause=1100&color=FF812B&center=true&vCenter=true&repeat=true&width=850&lines=%24+npx+%40hunesfox-hivelabs%2Fcli;%24+fox+init+--mode%3Dbuild;%3E+Make+powerful+things+feel+effortless." alt="Animated build commands" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&duration=2700&pause=1100&color=FFB454&center=true&vCenter=true&repeat=true&width=850&lines=%24+npx+%40hunesfox-hivelabs%2Fcli;%24+fox+init+--mode%3Dbuild;%3E+Make+powerful+things+feel+effortless." alt="Animated build commands" />
 
 </div>
 
@@ -90,9 +90,9 @@
 
 <div align="center">
 
-<a href="https://github.com/Good4Fox"><img src="https://img.shields.io/badge/GITHUB-@Good4Fox-151d2c?style=for-the-badge&logo=github&logoColor=white&labelColor=ff7925" alt="GitHub" /></a>
-<a href="https://hunesfox.com/cli"><img src="https://img.shields.io/badge/WEB-HUNESFOX_CLI-151d2c?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=ff7925" alt="HunesFox CLI" /></a>
-<a href="https://www.npmjs.com/package/@hunesfox-hivelabs/cli"><img src="https://img.shields.io/badge/NPM-PACKAGE-151d2c?style=for-the-badge&logo=npm&logoColor=white&labelColor=ff7925" alt="npm package" /></a>
+<a href="https://github.com/Good4Fox"><img src="https://img.shields.io/badge/GITHUB-@Good4Fox-151b23?style=for-the-badge&logo=github&logoColor=white&labelColor=ff7a18" alt="GitHub" /></a>
+<a href="https://hunesfox.com/cli"><img src="https://img.shields.io/badge/WEB-HUNESFOX_CLI-151b23?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=ff7a18" alt="HunesFox CLI" /></a>
+<a href="https://www.npmjs.com/package/@hunesfox-hivelabs/cli"><img src="https://img.shields.io/badge/NPM-PACKAGE-151b23?style=for-the-badge&logo=npm&logoColor=white&labelColor=ff7a18" alt="npm package" /></a>
 
 <details>
 <summary>⚡ UNLOCK THE FOX PROTOCOL</summary>

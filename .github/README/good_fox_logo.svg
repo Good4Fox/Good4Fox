@@ -3,14 +3,14 @@
   <desc id="desc">Animated dark futuristic GitHub-inspired banner with GOOD FOX entrance, pulsing fox neon, floating Octocat, signal trails, and reduced-motion fallback.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#080b12"/><stop offset="0.55" stop-color="#111725"/><stop offset="1" stop-color="#080b12"/>
+      <stop offset="0" stop-color="#0D1117"/><stop offset="0.55" stop-color="#151B23"/><stop offset="1" stop-color="#0D1117"/>
     </linearGradient>
     <linearGradient id="fire" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#ffe0a0"/><stop offset="0.26" stop-color="#ffab45"/><stop offset="0.66" stop-color="#ff6a18"/><stop offset="1" stop-color="#ed3e24"/>
+      <stop offset="0" stop-color="#FFB454"/><stop offset="0.26" stop-color="#FFB454"/><stop offset="0.66" stop-color="#FF7A18"/><stop offset="1" stop-color="#FF7A18"/>
     </linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff7a18" stop-opacity="0"/><stop offset="0.55" stop-color="#ff7a18" stop-opacity="0.7"/><stop offset="1" stop-color="#ff7a18" stop-opacity="0"/></linearGradient>
-    <radialGradient id="halo"><stop stop-color="#fa6e18" stop-opacity="0.23"/><stop offset="1" stop-color="#fa6e18" stop-opacity="0"/></radialGradient>
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#7b869a" stroke-width=".55" opacity=".13"/></pattern>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FF7A18" stop-opacity="0"/><stop offset="0.55" stop-color="#FF7A18" stop-opacity="0.7"/><stop offset="1" stop-color="#FF7A18" stop-opacity="0"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#FF7A18" stop-opacity="0.23"/><stop offset="1" stop-color="#FF7A18" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#30363D" stroke-width=".55" opacity=".13"/></pattern>
     <pattern id="grain" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".5" fill="#fff" opacity=".08"/></pattern>
     <clipPath id="frame"><rect width="1200" height="390" rx="20"/></clipPath>
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5"/></filter>
@@ -56,42 +56,42 @@
     <path class="scan" d="M0 0H1200V24H0Z" fill="url(#line)" opacity=".25"/>
     <rect width="1200" height="390" fill="url(#grain)"/>
     <ellipse class="halo" cx="970" cy="182" rx="330" ry="295" fill="url(#halo)"/>
-    <path d="M0 0H1200V3H0Z" fill="url(#fire)"/>
-    <path d="M0 387H1200V390H0Z" fill="url(#fire)" opacity=".8"/>
-    <path d="M-30 330 345 -45M30 425 460 -5M1010 410 1210 210" stroke="#ff7a18" stroke-opacity=".12" stroke-width="1"/>
-    <path d="M760 35h310l35 35h95M790 350h240l32-32h138M20 75h105l24-24h115" stroke="#ff8534" stroke-opacity=".32" stroke-width="1.3" fill="none"/>
-    <g fill="#ff8a37"><circle cx="760" cy="35" r="3"/><circle cx="790" cy="350" r="3"/><circle cx="264" cy="51" r="3"/></g>
-    <path class="trail" d="M-30 330 345 -45 M30 425 460 -5 M1010 410 1210 210" stroke="#ff9d43" stroke-width="2" fill="none" opacity=".8" />
-    <path class="trace" d="M760 35h310l35 35h95M790 350h240l32-32h138M20 75h105l24-24h115" stroke="#ff9b4b" stroke-width="1.2" fill="none" opacity=".6" />
-    <g class="star-a" fill="#ffbd72"><circle cx="640" cy="58" r="1.7"/><circle cx="1080" cy="284" r="1.5"/></g>
-    <g class="star-b" fill="#fff0c1"><circle cx="956" cy="68" r="1.3"/><circle cx="606" cy="304" r="1.7"/></g>
+    <path d="M0 0H1200V2H0Z" fill="url(#fire)" opacity=".68"/>
+    <path d="M0 388H1200V390H0Z" fill="url(#fire)" opacity=".45"/>
+    <path d="M-30 330 345 -45M30 425 460 -5M1010 410 1210 210" stroke="#FF7A18" stroke-opacity=".12" stroke-width="1"/>
+    <path d="M760 35h310l35 35h95M790 350h240l32-32h138M20 75h105l24-24h115" stroke="#FF7A18" stroke-opacity=".32" stroke-width="1.3" fill="none"/>
+    <g fill="#FF7A18"><circle cx="760" cy="35" r="3"/><circle cx="790" cy="350" r="3"/><circle cx="264" cy="51" r="3"/></g>
+    <path class="trail" d="M-30 330 345 -45 M30 425 460 -5 M1010 410 1210 210" stroke="#FFB454" stroke-width="2" fill="none" opacity=".8" />
+    <path class="trace" d="M760 35h310l35 35h95M790 350h240l32-32h138M20 75h105l24-24h115" stroke="#FFB454" stroke-width="1.2" fill="none" opacity=".6" />
+    <g class="star-a" fill="#FFB454"><circle cx="640" cy="58" r="1.7"/><circle cx="1080" cy="284" r="1.5"/></g>
+    <g class="star-b" fill="#F0F6FC"><circle cx="956" cy="68" r="1.3"/><circle cx="606" cy="304" r="1.7"/></g>
     <!-- Large GitHub Mark on the background: based on the GitHub Octicon silhouette -->
-    <g transform="translate(792 53) scale(17.2)" opacity=".10" fill="#dbe2ed"><g class="octocat">
+    <g transform="translate(792 53) scale(17.2)" opacity=".10" fill="#9198A1"><g class="octocat">
       <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.65 7.65 0 0 1 2-.27c.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8Z"/>
     </g></g>
     <!-- Geometric fox emblem -->
     <g transform="translate(688 113)"><g class="fox-head">
-      <path d="M0 0 38 24 84 3 130 24 166 0l-20 79-62 51-63-51Z" fill="#101621" stroke="url(#fire)" stroke-width="2.6"/>
-      <path d="M0 0 38 24 84 67 130 24 166 0l-20 79-62 51-63-51Z" fill="none" stroke="#ff8a32" stroke-width="7" class="fox-aura" opacity=".24" filter="url(#glow)"/>
+      <path d="M0 0 38 24 84 3 130 24 166 0l-20 79-62 51-63-51Z" fill="#151B23" stroke="url(#fire)" stroke-width="2.6"/>
+      <path d="M0 0 38 24 84 67 130 24 166 0l-20 79-62 51-63-51Z" fill="none" stroke="#FF7A18" stroke-width="7" class="fox-aura" opacity=".24" filter="url(#glow)"/>
       <path d="M21 32 69 65 84 99 99 65 146 32 130 71 84 111 38 71Z" fill="url(#fire)"/>
-      <path d="m44 59 26 10-9 9Zm80 0-26 10 9 9Z" fill="#111725"/>
-      <path class="eye-flash" d="m44 59 26 10-9 9Zm80 0-26 10 9 9Z" fill="#ffe5a7" opacity="0"/>
-      <path d="m76 96 8 5 8-5-8 13Z" fill="#131720"/>
+      <path d="m44 59 26 10-9 9Zm80 0-26 10 9 9Z" fill="#151B23"/>
+      <path class="eye-flash" d="m44 59 26 10-9 9Zm80 0-26 10 9 9Z" fill="#FFB454" opacity="0"/>
+      <path d="m76 96 8 5 8-5-8 13Z" fill="#151B23"/>
     </g></g>
     <!-- Typographic system -->
     <g font-family="Arial, Helvetica, sans-serif">
-      <rect class="status" x="57" y="42" width="8" height="8" rx="1.5" fill="#ff812c"/>
-      <text x="77" y="50" fill="#a9b3c4" font-size="14" font-weight="700" letter-spacing="4">CREATOR  /  BUILDER  /  OPEN SOURCE</text>
-      <text class="intro-good" x="51" y="157" fill="#f5f7fc" font-size="105" font-weight="900" letter-spacing="-5">GOOD</text>
-      <text class="intro-fox" x="51" y="254" fill="url(#fire)" font-size="105" font-weight="900" letter-spacing="-5">FOX<tspan fill="#f5f7fc">.</tspan></text>
+      <rect class="status" x="57" y="42" width="8" height="8" rx="1.5" fill="#FF7A18"/>
+      <text x="77" y="50" fill="#9198A1" font-size="14" font-weight="700" letter-spacing="4">CREATOR  /  BUILDER  /  OPEN SOURCE</text>
+      <text class="intro-good" x="51" y="157" fill="#F0F6FC" font-size="105" font-weight="900" letter-spacing="-5">GOOD</text>
+      <text class="intro-fox" x="51" y="254" fill="url(#fire)" font-size="105" font-weight="900" letter-spacing="-5">FOX<tspan fill="#F0F6FC">.</tspan></text>
       <rect x="57" y="273" width="394" height="2" rx="1" fill="url(#line)"/>
-      <text class="intro-meta" x="58" y="303" fill="#f1f4fa" font-size="21" font-weight="700" letter-spacing="2.7">@Good4Fox</text>
-      <text class="intro-meta" x="58" y="334" fill="#94a1b5" font-size="14" letter-spacing="1.55">AI TOOLS  •  DEV EXPERIENCE  •  MODERN UI</text>
-      <text x="1057" y="342" fill="#ff923c" opacity=".82" font-size="11" letter-spacing="2.1">EST. IN CODE</text>
+      <text class="intro-meta" x="58" y="303" fill="#F0F6FC" font-size="21" font-weight="700" letter-spacing="2.7">@Good4Fox</text>
+      <text class="intro-meta" x="58" y="334" fill="#9198A1" font-size="14" letter-spacing="1.55">AI TOOLS  •  DEV EXPERIENCE  •  MODERN UI</text>
+      <text x="1057" y="342" fill="#FFB454" opacity=".82" font-size="11" letter-spacing="2.1">EST. IN CODE</text>
     </g>
     <path d="M514 84V310" stroke="url(#fire)" stroke-opacity=".30"/>
-    <path d="M532 99h48M532 303h48" stroke="#fa8738" stroke-width="2" opacity=".55"/>
-    <path d="M1095 45h59v59M45 344v-29M45 344h29" stroke="#ff7c23" stroke-width="2" fill="none" opacity=".72"/>
-    <rect x="1" y="1" width="1198" height="388" rx="19" fill="none" stroke="#f78a38" opacity=".22" stroke-width="2"/>
+    <path d="M532 99h48M532 303h48" stroke="#FF7A18" stroke-width="2" opacity=".55"/>
+    <path d="M1095 45h59v59M45 344v-29M45 344h29" stroke="#FF7A18" stroke-width="2" fill="none" opacity=".72"/>
+    <rect x="1" y="1" width="1198" height="388" rx="19" fill="none" stroke="#FF7A18" opacity=".35" stroke-width="1"/>
   </g>
 </svg>
